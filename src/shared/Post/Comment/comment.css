@@ -1,0 +1,36 @@
+.comment {
+  margin-bottom: 40px;
+}
+
+.commentName {
+  display: flex;
+  align-items: center;
+  margin-bottom: 11px;
+}
+
+.avatarBox {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  box-shadow: none;
+  margin-right: 7px;
+}
+
+.avatarImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.commentText {
+  margin-bottom: 13px;
+}
+
+.commentsButton {
+  display: flex;
+}
+
+.commentsIcon {
+  margin-right: 6px;
+}
